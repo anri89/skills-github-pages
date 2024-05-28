@@ -1,5 +1,5 @@
 ---
-title: "Physics experiment"
+title: "Physics experiment "
 date: 2024-05-28
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Red Moon"
-date: 
+date: 2024-05-28
 ---
 # Red Moon experiment 
 

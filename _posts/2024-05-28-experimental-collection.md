@@ -8,4 +8,4 @@ date: 2024-05-28
 
 This post is about 
 
-[Take a look at](/skills-github-pages/Experiment11/Rainbow1/index.html)
+[Try it!](/skills-github-pages/Experiment11/Rainbow1/index.html)

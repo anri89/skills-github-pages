@@ -1,5 +1,5 @@
 ---
-title: "First post"
+title: "Rainbow"
 date: 2024-05-28
 ---
 

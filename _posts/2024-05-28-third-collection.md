@@ -2,7 +2,7 @@
 title: "Planets"
 date: 2024-05-28
 ---
-# Earth and Moon experiment
+# Earth and Moon Experiment
 
 This experiment was designed to replicate a satellite's orbit around a planet. The exercise showed how to utilise object-oriented programming in p5.js to control and animate a range of related objects by building an Earth-like planet with randomly placed points and a lunar one orbiting. The moon's orbital location can be determined using trigonometric functions, demonstrating how basic mathematical ideas may be used to produce lifelike animations. The starting point for this project was an online guide to creating planetary systems, which I adapted and modified to include additional features such as the Moon's orbit and spots on Earth. The development process involved experimenting with different shapes, colors and movements to create a visually appealing and realistic simulation. One of the problems I faced was solving the problem that the Moon's orbit was not centered around the Earth, which I solved by adjusting the calculation of the Moon's position in the satellite class. Another task was to create a sense of movement and animation, which I achieved by increasing the angle of the Moon in the drawing function and using this angle to calculate its position. Looking back, I would like to add more complexity to the simulation, for example, the influence of the Sun on the orbits of planets or the influence of gravity on the movement of the Moon. Overall, this project allowed me to reveal my creative side and experiment with various techniques and ideas in a fun and exciting way.
 
@@ -14,5 +14,7 @@ This experiment was designed to mimic the orbital motion of many satellites arou
 
 [Try it!](/skills-github-pages/Experiment66/Saturn/index.html)
 
+# Red Moon Experiment
+This experiment was designed to investigate several 3D lighting methods with the p5.js package. The experiment shows how various lighting sources alter the appearance of 3D objects by combining directing light, diffused light, and a spotlight. An interactive feature that lets customers observe how the lighting changes as they move the mouse is the backlight that follows the mouse cursor. The lighting effects can be seen more clearly when the scene is turned in small circles. I started with the fundamental WebGL configuration and changed it to add ambient, directional, and spot lighting. While the focused light on the left adds a sense of depth and volume, the diffused light produces a gentle, ethereal glow. A dynamic element is added to the scene by a point light that is controlled by the mouse location. The red circle spins to provide the impression of depth and movement. Using the push() and pop() functions, I was able to isolate the circle's transformation while maintaining its original position during the trials. Even though there were some issues with the spot lighting's intensity and range, I was able to fix them by experimenting with different settings. In general, this code showcases my proficiency in utilising novel methods and imaginatively adjusting lighting and transforms to produce a captivating three-dimensional scene.
 
 [Try it!](/skills-github-pages/Experiment77/Red_moon/index.html)

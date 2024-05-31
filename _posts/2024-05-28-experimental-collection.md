@@ -10,6 +10,8 @@ The code development process began with the creation of a basic particle system.
 Another creative and rather controversial concept in this project, requiring critical reflection, was the color change. When the lifetime of the particles causes a change in hue, the particles acquire an iridescent hue as soon as they disappear. This was done using the HSB color mode, which is an improved method compared to the basic color mode, since it allows you to bind the color gradient to the lifetime of the particle.
 Another feature of this project that requires attention is the morphology, in which particles are depicted in the process of changing shape. Each particle is a convex polygon, the shape of which becomes round/star-shaped when moving. This is made possible by the modified drawMorphingShape function, which draws a circle and a star and uses a sinusoidal function to interpolate between two circles depending on their radii. This interpolation provides a clear transition from one shape to another – as a result, the particles acquire greater depth and attractiveness.
 
+# Rainbow Experiment - 2 
+
 [Try it!](/skills-github-pages/Experiment11/Rainbow1/index.html)
 
 

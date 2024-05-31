@@ -9,4 +9,4 @@ This experiment was designed to provide an eye-catching visual impact by randoml
 
 # Hearts Keyboard
 
-[Try it!](/skills-github-pages/Experiment1111/Hearts_Keyboard/index.html)
+[Try it!](/skills-github-pages/Experiment1111/Hearts_keyboard/index.html)

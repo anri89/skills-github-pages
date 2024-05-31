@@ -1,5 +1,5 @@
 ---
-title: "Earth and Moon"
+title: "Planets"
 date: 2024-05-28
 ---
 # Earth and Moon experiment

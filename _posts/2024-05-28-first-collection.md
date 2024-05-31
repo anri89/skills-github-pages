@@ -25,3 +25,5 @@ Because of p5.js editor I managed to create a chain of ellipses that moves like 
 During this project, I encountered difficulties in ensuring movement and avoiding transitions between segments. Calculating angles and updating positions between segments without overlaps or breaks turned out to be quite a difficult task. In addition, synchronizing the changing sizes and colors of the gradient required fine-tuning the parameters to achieve the effect.
 If I had time, I would add elements to it, for example, adjust the colors of the segments depending on speed or direction. I might even have included keyboard controls to control the snake. To create this, I constantly had new ideas.
 
+[Try it!](/skills-github-pages/Experiment88/Snake/index.html)
+
